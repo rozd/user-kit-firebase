@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "UserKitFirebase",
     platforms: [
-        .iOS(.v26),
+        .iOS(.v18),
     ],
     products: [
         .library(
